@@ -142,7 +142,7 @@ ORDER BY Returned_Items DESC;
 
 --- Those customer sbelong to Small business, Home office, Corporate and Consumer segments.
 ```
-11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one,
+11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, 
 do you think the company appropriately spent shipping costs based on the Order Priority?
 ``` SQL
 SELECT 
