@@ -68,7 +68,7 @@ Group By Customer_Name
 Order By
 TotalSales DESC;
 
-------Which Corporate Customer placed the most number of orders in 2009 – 2012?
+------Which Corporate Customer placed the most number of orders in 2009 â€“ 2012?
 SELECT TOP 10
 Customer_Name, Count(Order_Quantity) AS Count_of_Quantity
 From KMS_Case_Study
