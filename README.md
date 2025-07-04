@@ -160,3 +160,6 @@ ORDER BY Order_Priority, Ship_Mode;
 --which contradicts cost-efficiency principles.Delivery Truck, the slowest method, was occasionally used for High or Critical orders.
 -- The company did not consistently match shipping cost with urgency, suggesting potential inefficiencies in logistics planning.
 ```
+### Conclusion
+---
+This project highlights that Technology and Office Supplies are Kultra Mega Store`s top-performing categories, Corporate and Consumer segments generate the most revenue, suggesting a need for targeted strategies to encourage mreo sales. Negative profit entries point to potential returns, indicating areas to improve customer satisfaction. Focusing on best-selling products, high-value segments, and return reduction can help Kultra Mega Stores boost overall performance..
