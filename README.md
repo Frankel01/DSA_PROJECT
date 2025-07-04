@@ -43,5 +43,17 @@ From KMS_Case_Study
 Group By Region
 Order By TotalSales ASC;
 
+--- The West has te hightest sale by region while the Nunavut has the lowest sales by region.
+```
+-----What were the total sales of appliances in Ontario?
+``` SQL
+SELECT Count(*) as Count_of_sales,
+Round(SUM(Sales), 00) 
+AS Total_Sales_In_Ontario
+FROM KMS_Case_Study
+WHERE Product_Sub_Category = 'Appliances' 
+AND Region = 'Ontario'
+Group By Product_Sub_Category,
+Region;
 ---
 ```
